@@ -28,6 +28,7 @@ public class ShdowDemo {
 		//d2.j=999;
 		System.out.println(d1.i+" "+ d1.c.j);
 		System.out.println("hello");
+		System.out.println("");
 	}
 
 }
